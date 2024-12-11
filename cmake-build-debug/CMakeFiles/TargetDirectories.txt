@@ -1,0 +1,3 @@
+C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-debug/CMakeFiles/mpi01.dir
+C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
