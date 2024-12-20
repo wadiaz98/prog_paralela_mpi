@@ -1,0 +1,10 @@
+[settings]
+arch=x86_64
+os=Windows
+compiler=IntelLLVM
+compiler.version=2024.1.0
+compiler.cppstd=17
+build_type=Release
+[conf]
+tools.cmake.cmaketoolchain:generator=Ninja
+tools.build:compiler_executables={"c":"C:/Program Files (x86)/Intel/oneAPI/compiler/latest/bin/icx.exe","cpp":"C:/Program Files (x86)/Intel/oneAPI/compiler/latest/bin/icx.exe","rc":"C:/Program Files (x86)/Windows Kits/10/bin/10.0.22621.0/x64/rc.exe"}

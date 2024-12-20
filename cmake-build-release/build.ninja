@@ -78,6 +78,44 @@ build mpi01.exe: CXX_EXECUTABLE_LINKER__mpi01_Release CMakeFiles\mpi01.dir\main.
   TARGET_IMPLIB = mpi01.lib
   TARGET_PDB = mpi01.pdb
 
+# =============================================================================
+# Object build statements for EXECUTABLE target matrices_mult
+
+
+#############################################
+# Order-only phony target for matrices_mult
+
+build cmake_object_order_depends_target_matrices_mult: phony || .
+
+build CMakeFiles\matrices_mult.dir\matrices_mult.cpp.obj: CXX_COMPILER__matrices_mult_unscanned_Release C$:\Users\fing.labcom\Downloads\Paralela\CLION\mpi\matrices_mult.cpp || cmake_object_order_depends_target_matrices_mult
+  DEP_FILE = CMakeFiles\matrices_mult.dir\matrices_mult.cpp.obj.d
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD
+  INCLUDES = -IC:\Users\fing.labcom\Downloads\Paralela\CLION\mpi\$$MPI_INCLUDE_PATH
+  OBJECT_DIR = CMakeFiles\matrices_mult.dir
+  OBJECT_FILE_DIR = CMakeFiles\matrices_mult.dir
+  TARGET_COMPILE_PDB = CMakeFiles\matrices_mult.dir\
+  TARGET_PDB = matrices_mult.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target matrices_mult
+
+
+#############################################
+# Link the executable matrices_mult.exe
+
+build matrices_mult.exe: CXX_EXECUTABLE_LINKER__matrices_mult_Release CMakeFiles\matrices_mult.dir\matrices_mult.cpp.obj | C$:\Program$ Files$ (x86)\Intel\oneAPI\mpi\latest\lib\impi.lib
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /O2 /Ob2 /DNDEBUG -MD
+  LINK_FLAGS = /Qoption,link,/machine:x64 /Qoption,link,/INCREMENTAL:NO /Qoption,link,/subsystem:console
+  LINK_LIBRARIES = "C:\Program Files (x86)\Intel\oneAPI\mpi\latest\lib\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = CMakeFiles\matrices_mult.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\matrices_mult.dir\
+  TARGET_FILE = matrices_mult.exe
+  TARGET_IMPLIB = matrices_mult.lib
+  TARGET_PDB = matrices_mult.pdb
+
 
 #############################################
 # Utility command for edit_cache
@@ -104,6 +142,8 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build matrices_mult: phony matrices_mult.exe
+
 build mpi01: phony mpi01.exe
 
 # =============================================================================
@@ -114,7 +154,7 @@ build mpi01: phony mpi01.exe
 #############################################
 # Folder: C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release
 
-build all: phony mpi01.exe
+build all: phony mpi01.exe matrices_mult.exe
 
 # =============================================================================
 # Built-in targets

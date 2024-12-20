@@ -91,8 +91,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-c4dkz4"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-c4dkz4"
+      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-3fybt0"
+      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-3fybt0"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
       CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -101,11 +101,11 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-c4dkz4'
+        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-3fybt0'
         
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_63894
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_63894.dir\\CMakeCCompilerABI.c.obj -QMF CMakeFiles\\cmTC_63894.dir\\CMakeCCompilerABI.c.obj.d /FoCMakeFiles\\cmTC_63894.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_63894.dir\\ -c "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_63894.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_63894.dir\\CMakeCCompilerABI.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console   /link /out:cmTC_63894.exe /implib:cmTC_63894.lib /pdb:cmTC_63894.pdb /version:0.0 && cd ."
+        Run Build Command(s): C:/Users/fing.labcom/Downloads/ninja-win/ninja.exe -v cmTC_620ec
+        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo   /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_620ec.dir\\CMakeCCompilerABI.c.obj -QMF CMakeFiles\\cmTC_620ec.dir\\CMakeCCompilerABI.c.obj.d /FoCMakeFiles\\cmTC_620ec.dir\\CMakeCCompilerABI.c.obj /FdCMakeFiles\\cmTC_620ec.dir\\ -c "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_620ec.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_620ec.dir\\CMakeCCompilerABI.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console   /link /out:cmTC_620ec.exe /implib:cmTC_620ec.lib /pdb:cmTC_620ec.pdb /version:0.0 && cd ."
         
       exitCode: 0
   -
@@ -133,8 +133,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-2xg2ui"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-2xg2ui"
+      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-crydii"
+      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-crydii"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
@@ -144,11 +144,11 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-2xg2ui'
+        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-crydii'
         
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_8d3d3
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_8d3d3.dir\\CMakeCXXCompilerABI.cpp.obj -QMF CMakeFiles\\cmTC_8d3d3.dir\\CMakeCXXCompilerABI.cpp.obj.d /FoCMakeFiles\\cmTC_8d3d3.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_8d3d3.dir\\ -c "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8d3d3.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_8d3d3.dir\\CMakeCXXCompilerABI.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console   /link /out:cmTC_8d3d3.exe /implib:cmTC_8d3d3.lib /pdb:cmTC_8d3d3.pdb /version:0.0 && cd ."
+        Run Build Command(s): C:/Users/fing.labcom/Downloads/ninja-win/ninja.exe -v cmTC_df9ad
+        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP   /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_df9ad.dir\\CMakeCXXCompilerABI.cpp.obj -QMF CMakeFiles\\cmTC_df9ad.dir\\CMakeCXXCompilerABI.cpp.obj.d /FoCMakeFiles\\cmTC_df9ad.dir\\CMakeCXXCompilerABI.cpp.obj /FdCMakeFiles\\cmTC_df9ad.dir\\ -c "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_df9ad.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_df9ad.dir\\CMakeCXXCompilerABI.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console   /link /out:cmTC_df9ad.exe /implib:cmTC_df9ad.lib /pdb:cmTC_df9ad.pdb /version:0.0 && cd ."
         
       exitCode: 0
   -
@@ -167,328 +167,4 @@ events:
         implicit fwks: []
       
       
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for C in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-0pny2g"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-0pny2g"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
-      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_C_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-0pny2g'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_8107f
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_8107f.dir\\test_mpi.c.obj -QMF CMakeFiles\\cmTC_8107f.dir\\test_mpi.c.obj.d /FoCMakeFiles\\cmTC_8107f.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_8107f.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-0pny2g\\test_mpi.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_8107f.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_8107f.dir\\test_mpi.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_8107f.exe /implib:cmTC_8107f.lib /pdb:cmTC_8107f.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dqw8wq"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dqw8wq"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dqw8wq'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_411e6
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_411e6.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_411e6.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_411e6.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_411e6.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-dqw8wq\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_411e6.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_411e6.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_411e6.exe /implib:cmTC_411e6.lib /pdb:cmTC_411e6.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode MPICXX"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-ekufa2"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-ekufa2"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-ekufa2'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_ccac0
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_ccac0.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_ccac0.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_ccac0.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_ccac0.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-ekufa2\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ccac0.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_ccac0.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_ccac0.exe /implib:cmTC_ccac0.lib /pdb:cmTC_ccac0.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for C in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dy8wz4"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dy8wz4"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
-      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_C_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-dy8wz4'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_ac6df
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_ac6df.dir\\test_mpi.c.obj -QMF CMakeFiles\\cmTC_ac6df.dir\\test_mpi.c.obj.d /FoCMakeFiles\\cmTC_ac6df.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_ac6df.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-dy8wz4\\test_mpi.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ac6df.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_ac6df.dir\\test_mpi.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_ac6df.exe /implib:cmTC_ac6df.lib /pdb:cmTC_ac6df.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-r3bwsd"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-r3bwsd"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-r3bwsd'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_a7cdc
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_a7cdc.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_a7cdc.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_a7cdc.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_a7cdc.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-r3bwsd\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_a7cdc.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_a7cdc.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_a7cdc.exe /implib:cmTC_a7cdc.lib /pdb:cmTC_a7cdc.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode MPICXX"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-twi9kb"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-twi9kb"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-twi9kb'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_52e83
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_52e83.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_52e83.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_52e83.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_52e83.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-twi9kb\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_52e83.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_52e83.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_52e83.exe /implib:cmTC_52e83.lib /pdb:cmTC_52e83.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for C in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-35xnsy"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-35xnsy"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
-      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_C_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-35xnsy'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_2651c
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_2651c.dir\\test_mpi.c.obj -QMF CMakeFiles\\cmTC_2651c.dir\\test_mpi.c.obj.d /FoCMakeFiles\\cmTC_2651c.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_2651c.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-35xnsy\\test_mpi.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_2651c.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_2651c.dir\\test_mpi.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_2651c.exe /implib:cmTC_2651c.lib /pdb:cmTC_2651c.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-wbqld7"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-wbqld7"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-wbqld7'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_ad9eb
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_ad9eb.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_ad9eb.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_ad9eb.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_ad9eb.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-wbqld7\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_ad9eb.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_ad9eb.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_ad9eb.exe /implib:cmTC_ad9eb.lib /pdb:cmTC_ad9eb.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode MPICXX"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-sas32u"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-sas32u"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-sas32u'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_f39e1
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_f39e1.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_f39e1.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_f39e1.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_f39e1.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-sas32u\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_f39e1.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_f39e1.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_f39e1.exe /implib:cmTC_f39e1.lib /pdb:cmTC_f39e1.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-...
-
----
-events:
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for C in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-smuq1p"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-smuq1p"
-    cmakeVariables:
-      CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS"
-      CMAKE_C_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_C_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-smuq1p'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_1e904
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_1e904.dir\\test_mpi.c.obj -QMF CMakeFiles\\cmTC_1e904.dir\\test_mpi.c.obj.d /FoCMakeFiles\\cmTC_1e904.dir\\test_mpi.c.obj /FdCMakeFiles\\cmTC_1e904.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-smuq1p\\test_mpi.c
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_1e904.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_1e904.dir\\test_mpi.c.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_1e904.exe /implib:cmTC_1e904.lib /pdb:cmTC_1e904.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1322 (_MPI_try_staged_settings)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1645 (_MPI_check_lang_works)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode normal"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-70zox9"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-70zox9"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_normal"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-70zox9'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_bbb98
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_bbb98.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_bbb98.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_bbb98.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_bbb98.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-70zox9\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_bbb98.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_bbb98.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_bbb98.exe /implib:cmTC_bbb98.lib /pdb:cmTC_bbb98.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1278 (try_compile)"
-      - "C:/Program Files/JetBrains/CLion 2024.2.1/bin/cmake/win/x64/share/cmake-3.29/Modules/FindMPI.cmake:1672 (_MPI_try_staged_settings)"
-      - "CMakeLists.txt:6 (find_package)"
-    description: "The MPI test test_mpi for CXX in mode MPICXX"
-    directories:
-      source: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-7o9ypf"
-      binary: "C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-7o9ypf"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /EHsc"
-      CMAKE_CXX_FLAGS_DEBUG: "/Ob0 /Od /RTC1"
-      CMAKE_EXE_LINKER_FLAGS: "/Qoption,link,/machine:x64"
-    buildResult:
-      variable: "MPI_RESULT_CXX_test_mpi_MPICXX"
-      cached: true
-      stdout: |
-        Change Dir: 'C:/Users/fing.labcom/Downloads/Paralela/CLION/mpi/cmake-build-release/CMakeFiles/CMakeScratch/TryCompile-7o9ypf'
-        
-        Run Build Command(s): "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe" -v cmTC_50357
-        [1/2] C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe  /nologo /TP  -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include" -external:I"C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\include\\mpi" -external:W0 /DWIN32 /D_WINDOWS /EHsc  /Ob0 /Od /RTC1 -MDd -Zi -QMD -QMT CMakeFiles\\cmTC_50357.dir\\test_mpi.cpp.obj -QMF CMakeFiles\\cmTC_50357.dir\\test_mpi.cpp.obj.d /FoCMakeFiles\\cmTC_50357.dir\\test_mpi.cpp.obj /FdCMakeFiles\\cmTC_50357.dir\\ -c C:\\Users\\fing.labcom\\Downloads\\Paralela\\CLION\\mpi\\cmake-build-release\\CMakeFiles\\CMakeScratch\\TryCompile-7o9ypf\\test_mpi.cpp
-        [2/2] C:\\Windows\\system32\\cmd.exe /C "cd . && "C:\\Program Files\\JetBrains\\CLion 2024.2.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\\cmTC_50357.dir --rc=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\rc.exe --mt=C:\\PROGRA~2\\WI3CF2~1\\10\\bin\\100226~1.0\\x64\\mt.exe --manifests  -- C:\\PROGRA~2\\Intel\\oneAPI\\compiler\\latest\\bin\\icx.exe /nologo CMakeFiles\\cmTC_50357.dir\\test_mpi.cpp.obj  /Qoption,link,/machine:x64  /Qoption,link,/debug /Qoption,link,/INCREMENTAL /Qoption,link,/subsystem:console  "C:\\Program Files (x86)\\Intel\\oneAPI\\mpi\\latest\\lib\\impi.lib"  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /link /out:cmTC_50357.exe /implib:cmTC_50357.lib /pdb:cmTC_50357.pdb /version:0.0 && cd ."
-        
-      exitCode: 0
 ...

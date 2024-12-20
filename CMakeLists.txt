@@ -21,6 +21,9 @@ include_directories($MPI_INCLUDE_PATH)
 add_executable(mpi01 main.cpp)
 target_link_libraries(mpi01 ${MPI_LIBRARIES})
 
+add_executable(matrices_mult matrices_mult.cpp)
+target_link_libraries(matrices_mult ${MPI_LIBRARIES})
+
 
 #Manual para AMD y microsoft
 #set(MPI_ROOT "C:/Program Files (x86)/Intel/oneAPI/mpi/latest")
